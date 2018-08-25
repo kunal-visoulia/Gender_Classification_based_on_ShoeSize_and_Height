@@ -7,13 +7,17 @@ http://www.academia.edu/29485664/Correlation_Between_Gender_Height_And_Shoe_Size
 # Challenge:
 Find 3 more classifiers from the sci-kit learn documentation and add them to the code. Train them on the same dataset and compare their results. 
 The following classifiers were chosen:
-    • Decision Tree Classifier
-    • Nearest Neighbour Classifier 
-    • Random Forest Classifier
-    • Naive Bayes Classifier
+
+• Decision Tree Classifier
+
+• Nearest Neighbour Classifier 
+
+• Random Forest Classifier
+
+• Naive Bayes Classifier
 
 # Status:
     • DecisionTreeClassifier    Accuracy:  90.98%
     • KNeighborsClassifier      Accuracy:  87.27%
-    • RandomForestClassifier Accuracy:  90.72%
-    • GaussianNB             	 Accuracy:  84.88%
+    • RandomForestClassifier    Accuracy:  90.72%
+    • GaussianNB             	Accuracy:  84.88%
