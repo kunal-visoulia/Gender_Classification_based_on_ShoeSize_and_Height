@@ -16,6 +16,10 @@ The following classifiers were chosen:
 
 • Naive Bayes Classifier
 
+# Usage:
+#just run
+ pyhthon classifier.py
+
 # Status:
     • DecisionTreeClassifier    Accuracy:  90.98%
     • KNeighborsClassifier      Accuracy:  87.27%
