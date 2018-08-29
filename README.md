@@ -17,8 +17,8 @@ The following classifiers were chosen:
 • Naive Bayes Classifier
 
 # Usage:
-#just run
- pyhthon classifier.py
+just run
+ python classifier.py
 
 # Status:
     • DecisionTreeClassifier    Accuracy:  90.98%
