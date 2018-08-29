@@ -18,7 +18,7 @@ The following classifiers were chosen:
 
 # Usage:
 just run
- python classifier.py
+ `python classifier.py`
 
 # Status:
     • DecisionTreeClassifier    Accuracy:  90.98%
